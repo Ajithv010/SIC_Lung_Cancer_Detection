@@ -1,0 +1,15 @@
+# Virtual Environment
+gpu_env/
+
+# Dataset
+data/
+
+# Model weights
+*.pth
+
+# Training history
+training_history.json
+
+# Python cache
+__pycache__/
+*.pyc
