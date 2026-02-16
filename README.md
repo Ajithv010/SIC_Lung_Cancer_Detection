@@ -53,50 +53,10 @@ SIC_Lung_Cancer_Detection/
 
 ---
 
-## 🚀 How to Run the Project – Interview Explanation
 
-1️⃣ Clone Repository
-git clone https://github.com/Ajithv010/SIC_Lung_Cancer_Detection.git
-cd SIC_Lung_Cancer_Detection
 
-Explanation:
-This step downloads the entire project from GitHub to the local system.
-The 'git clone' command copies all project files, including source code,
-requirements, and folder structure. After cloning, we move into the project
-directory using the 'cd' command so we can run the project locally.
 
----
 
-2️⃣ Install Requirements
-pip install -r requirements.txt
-
-Explanation:
-The requirements.txt file contains all necessary Python libraries required
-for the project such as deep learning frameworks, image processing libraries,
-data handling tools, and Streamlit for the user interface. Installing these
-ensures the project runs correctly without missing dependencies.
-
----
-
-3️⃣ Run Application
-streamlit run app.py
-
-Explanation:
-This command launches the Streamlit web application. It starts a local server
-and opens the project interface in a browser. Users can upload lung scan images,
-and the trained deep learning model processes the image to provide real-time
-classification results such as benign, malignant, or normal along with confidence
-scores.
-
----
-
-Simple Interview Summary:
-First, I clone the project from GitHub, install all required dependencies using
-requirements.txt, and then run the Streamlit application, which provides a web
-interface for uploading lung scan images and getting AI-based cancer predictions.
- 
-
----
 
 ## 📊 Model Workflow
 1. Upload lung image via Streamlit UI  
