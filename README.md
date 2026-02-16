@@ -116,4 +116,3 @@ Computer Science Engineering Student | AI/ML Enthusiast
 
 ## ⭐ Acknowledgment
 This project demonstrates how artificial intelligence can assist healthcare by enabling faster and more accurate lung cancer detection using medical image analysis.
-
