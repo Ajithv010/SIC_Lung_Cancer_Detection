@@ -52,6 +52,16 @@ SIC_Lung_Cancer_Detection/
 └── .gitignore # Ignored files  
 
 ---
+# Step 1: Clone the repository
+git clone https://github.com/Ajithv010/SIC_Lung_Cancer_Detection.git
+cd SIC_Lung_Cancer_Detection
+
+# Step 2: Install required dependencies
+pip install -r requirements.txt
+
+# Step 3: Run the Streamlit application
+streamlit run app.py
+
 
 
 
